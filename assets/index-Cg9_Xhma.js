@@ -137,7 +137,7 @@ Error generating stack: `+e.message+`
           left: 0;
           right: 0;
           bottom: 0;
-          background-color: rgba(0, 0, 0, 0.2);
+          background-color: rgba(0, 0, 0, 0.50);
           display: flex;
           align-items: center;
           justify-content: center;
@@ -147,7 +147,7 @@ Error generating stack: `+e.message+`
         }
 
         .modal-content {
-          background-color: rgba(22, 22, 35, 0.38);
+          background-color: rgba(22, 22, 35, 0.8);
           backdrop-filter: blur(12px);
           -webkit-backdrop-filter: blur(12px);
           padding: 2rem;
